@@ -11,5 +11,9 @@ package flag;
  */
 public class ActionFlags {
     public static final String ERROR = "-1";
+    public static final String LOGIN = "1";
+    public static String REGISTER;
+    public static String GET_ALL_USER;
+    public static String LOGOUT;
     
 }
